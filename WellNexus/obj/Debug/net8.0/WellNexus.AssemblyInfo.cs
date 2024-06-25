@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WellNexus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fbd5d2e4291fb7eac753fcc4d539cf727bc2822")]
 [assembly: System.Reflection.AssemblyProductAttribute("WellNexus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WellNexus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
