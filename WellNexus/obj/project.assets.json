@@ -470,19 +470,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jeay\\.nuget\\packages\\": {}
+    "C:\\Users\\bono2\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jeay\\OneDrive - Zuyd Hogeschool\\Leerjaar 1\\Blok 4\\Casus\\WellNexus\\WellNexus.csproj",
+      "projectUniqueName": "C:\\Users\\bono2\\OneDrive\\Bureaublad\\WellNexus Casus\\WellNexus\\WellNexus.csproj",
       "projectName": "WellNexus",
-      "projectPath": "C:\\Users\\Jeay\\OneDrive - Zuyd Hogeschool\\Leerjaar 1\\Blok 4\\Casus\\WellNexus\\WellNexus.csproj",
-      "packagesPath": "C:\\Users\\Jeay\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jeay\\OneDrive - Zuyd Hogeschool\\Leerjaar 1\\Blok 4\\Casus\\WellNexus\\obj\\",
+      "projectPath": "C:\\Users\\bono2\\OneDrive\\Bureaublad\\WellNexus Casus\\WellNexus\\WellNexus.csproj",
+      "packagesPath": "C:\\Users\\bono2\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\bono2\\OneDrive\\Bureaublad\\WellNexus Casus\\WellNexus\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jeay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\bono2\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -490,7 +490,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "c:\\program files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -535,7 +534,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
