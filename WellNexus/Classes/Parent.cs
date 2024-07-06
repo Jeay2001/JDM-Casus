@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WellNexus
 {
-    internal class Parent : User
+    public class Parent : User
     {
 
         // variables

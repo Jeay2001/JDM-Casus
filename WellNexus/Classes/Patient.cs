@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WellNexus
 {
-    internal class Patient : User
+    public class Patient : User
     {
         // variables
 
@@ -26,6 +26,17 @@ namespace WellNexus
             this.Email = Email;
             this.Password = Password;
             this.DateOfBirth = DateOfBirth;
+        }
+        public void StarTest()
+        {
+            Test test = new Test(this.Id, DateTime.Now);
+
+            for (int i = 0; i < 14; i++)
+            {
+                Exercise exercise = new Exercise(i, "Exercise", i);
+                test.Exercises.Add(exercise);
+            }
+
         }
     }
 }
