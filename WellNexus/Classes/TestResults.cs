@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WellNexus
 {
-    internal class TestResults
+    public class TestResults
     {
 
         // variables

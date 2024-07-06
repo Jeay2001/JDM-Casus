@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WellNexus
 {
-    internal class Test
+    public class Test
     {
 
         // variables
@@ -24,7 +24,11 @@ namespace WellNexus
         }
 
         // methods
-
+        public void StartExcerise()
+        {
+            Exercise exercise = new Exercise(this.Id, "Exercise", 1);
+            exercise.Start(this.Id);
+        }
         public void SubmitTest(string ResultData)
         {
             TestResults testResults = new TestResults(this.Id, this.TestDate, ResultData);

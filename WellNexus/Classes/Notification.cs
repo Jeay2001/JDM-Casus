@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WellNexus
 {
-    internal class Notification
+    public class Notification
     {
         // variables
         public int Id { get; set; }

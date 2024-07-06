@@ -10,7 +10,7 @@ namespace WellNexus
     public class Dal
     {
 
-        private readonly string connectionString = "Data Source=sqlserverjeaysnijders.database.windows.net; Initial Catalog = Zuydfit; User ID = Jeay2001; Password=Snijders2208@";
+        private string connectionString = "Data Source=.;Initial Catalog=Kassasysteem;Integrated Security=true";
 
         public Dal() 
         {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WellNexus
 {
-    internal class Researcher : User
+    public class Researcher : User
     {
 
         // variables
@@ -27,6 +27,6 @@ namespace WellNexus
         }
 
         // methods
-
+        
     }
 }
