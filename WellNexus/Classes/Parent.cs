@@ -50,6 +50,9 @@ namespace WellNexus
             Dal Dal = new Dal();
             Dal.GetPatientTestResult();
         }
-
+        public void ParentLogin()
+        {
+            
+        }
     }
 }

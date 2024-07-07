@@ -38,6 +38,12 @@ namespace WellNexus
             }
 
         }
-        
+
+        public void GetTestResult()
+        {
+            TestResults testResult = new TestResults(1, DateTime.Now, "");
+            testResult.SeeResult();
+        }
+
     }
 }
