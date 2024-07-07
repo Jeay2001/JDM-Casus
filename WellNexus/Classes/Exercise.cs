@@ -26,9 +26,12 @@ namespace WellNexus
 
         // Methods
 
-        public void StartExercise(int Id)
+        public void Start(int Id)
         {
             Console.WriteLine("Exercise started");
         }
+
+        public void GetData() { }
+        public void VerifyData() { }
     }
 }

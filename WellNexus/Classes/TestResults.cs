@@ -27,6 +27,8 @@ namespace WellNexus
         }
 
         // Methods
-
+        public void CalculateResult() { }
+        public void Notify() { }
+        public void SendResults() { }
     }
 }

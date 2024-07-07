@@ -33,5 +33,14 @@ namespace WellNexus
         {
             TestResults testResults = new TestResults(this.Id, this.TestDate, ResultData);
         }
+        public void StartTimerTest() { }
+        public void StopTimer() { }
+        public void Submit() { }
+        public void StartFirstExercise() { }
+        public void SetInProgress() { }
+        public void SeeResult() { }
+        public void StartNextExercise() { }
+        public void GivePermission() { }
+
     }
 }

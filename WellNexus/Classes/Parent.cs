@@ -44,5 +44,12 @@ namespace WellNexus
         {
             Console.WriteLine("Exercise declined");
         }
+
+        public void GetPatientTestResult()
+        {
+            Dal Dal = new Dal();
+            Dal.GetPatientTestResult();
+        }
+
     }
 }
