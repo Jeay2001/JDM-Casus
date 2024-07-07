@@ -30,5 +30,9 @@ namespace WellNexus
         public void CalculateResult() { }
         public void Notify() { }
         public void SendResults() { }
+        public void SeeResult()
+        {
+            
+        }
     }
 }

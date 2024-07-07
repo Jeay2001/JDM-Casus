@@ -32,5 +32,16 @@ namespace WellNexus
         }
 
         // methods
+
+        public void StartValidation()
+        {
+            
+        }
+
+        
+        public void Validate()
+        {
+            
+        }
     }
 }
